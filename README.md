@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="Captura.png" alt="semáforo" />
+   <img src="https://github.com/rittiele/semafaro/blob/master/github/Captura.png" alt="semáforo" />
 </p>
 
 <!-- Badges -->
